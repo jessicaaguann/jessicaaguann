@@ -1,7 +1,5 @@
 ## Hey, I’m Jessica Guan 👋
 
-<img src="https://github.com/user-attachments/assets/3adb259c-ad09-4e75-b431-1db7eb42efe8" alt="Jessica Guan Headshot" width="200">
-
 👀 I’m interested in data science, machine learning, and quantitative finance
 
 🌱 I’m currently learning the theory of poker and exploring the outdoors
