@@ -16,6 +16,6 @@ Check out some of my past projects:
 
 https://github.com/cactusJ12/Sparkrockets-BTTAI
 
-https://github.com/anushac14/ai4all-unsupervised-learning
+https://github.com/jessicaaguann/collaborative-filtering-products-recommendation
 
-https://github.com/jessicaaguann/Crypto-Data-Dashboard
+https://github.com/jessicaaguann/cryptocurrency-prices-data-dashboard
