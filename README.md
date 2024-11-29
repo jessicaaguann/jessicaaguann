@@ -14,7 +14,7 @@
 
 Check out some of my past projects:
 
-https://github.com/cactusJ12/Sparkrockets-BTTAI
+SparkRockets Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for SparkRockets for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! https://github.com/cactusJ12/Sparkrockets-BTTAI
 
 https://github.com/jessicaaguann/collaborative-filtering-products-recommendation
 
