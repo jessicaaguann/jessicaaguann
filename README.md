@@ -12,10 +12,10 @@
 
 ⚡ Fun fact: I have over 80 stickers and counting on my laptop
 
-Check out some of my past projects:
+## Check out some of my past projects 👩‍💻 
 
-SparkRockets Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for SparkRockets for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! https://github.com/cactusJ12/Sparkrockets-BTTAI
+🚀 SparkRockets Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for SparkRockets for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! https://github.com/cactusJ12/Sparkrockets-BTTAI
 
-https://github.com/jessicaaguann/collaborative-filtering-products-recommendation
+🛍️ Artificial Intelligence Portfolio Project (AI4ALL Ignite Accelerator): Check out my team's project repository for the unsupervised learning project we worked on for over 3 months, as part of the AI4ALL Ignite Accelerator's Fall 2024 Cohort! https://github.com/jessicaaguann/collaborative-filtering-products-recommendation
 
-https://github.com/jessicaaguann/cryptocurrency-prices-data-dashboard
+📈 Cryptocurrency Prices Data Dashboard: Check out a personal project that I worked on to dive deep into the world of Web3! https://github.com/jessicaaguann/cryptocurrency-prices-data-dashboard
